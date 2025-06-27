@@ -11,8 +11,8 @@ import OSM from './src/OSM';
 function App() {
   return (
     <View style={{ backgroundColor: 'white', height: '100%' }}>
-      {/* <QrScanner /> */}
-      <OSM />
+      <QrScanner />
+      {/* <OSM /> */}
     </View>
   );
 }
