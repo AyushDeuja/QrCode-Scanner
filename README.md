@@ -1,2 +1,2 @@
-Qr scanner
+Qr scanner In React Native
 
